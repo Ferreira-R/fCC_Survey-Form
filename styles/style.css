@@ -1,0 +1,11 @@
+html {
+	font-size: 10px;
+	background: #7e729d;
+}
+
+body {
+	font-size: 1.6rem;
+	/* line-height: 1.5; */
+	text-align: center;
+	/* margin: 0; */
+}
